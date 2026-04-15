@@ -21,7 +21,7 @@ Become an android repair technician in a cyberpunk city where the sun never rise
 
 1. Locate your game installation folder, typically at:
 	 ```
-	 \steamapps\common\D1AL-ogue\D1AL-ogue_Data\StreamingAssets\aa
+	 \steamapps\common\D1AL-ogue\
 	 ```
 
 2. Replace the following files with the ones from the `patch` folder:
